@@ -10,11 +10,11 @@ main:
     identifier: profile
   - name: 프로필
     parent: profile
-    url: /profile/
+    url: /
     weight: 11
   - name: 스펙
     parent: profile
-    url: /specs/
+    url: /profile/specs
     weight: 12
 
   - name: 프로젝트
@@ -23,21 +23,30 @@ main:
     weight: 13
   - name: 백엔드
     parent: project
-    url: /backend/
+    url: /project/backend
     weight: 14
   - name: 프론트앤드
     parent: project
-    url: /frontend/
+    url: /project/frontend
     weight: 15
   - name: 기타
     parent: project
-    url: /etc/
+    url: /project/etc
     weight: 16
 
   - name: 교육 및 기술
-    url: experience/
+    url: /eduNskills
+    identifier: eduNskills
     weight: 17
-
-  - name: 기타
-    url: /etc
+  - name: 교육
+    parent: eduNskills
+    url: /eduNtech/edu
     weight: 18
+  - name: 기술
+    parent: eduNskills
+    url: /eduNtech/skills
+    weight: 19
+
+  - name: Others
+    url: /others
+    weight: 20

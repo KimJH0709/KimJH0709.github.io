@@ -145,16 +145,6 @@
     <loc>http://localhost:1313/en/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pandas/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -173,30 +163,10 @@
     <loc>http://localhost:1313/en/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pytorch/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/scikit/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -271,16 +241,6 @@
     <loc>http://localhost:1313/en/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/experience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/experience/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
