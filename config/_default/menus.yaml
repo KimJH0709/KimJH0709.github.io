@@ -47,6 +47,6 @@ main:
     url: /eduNtech/skills
     weight: 19
 
-  - name: Others
-    url: /others
+  - name: 연락
+    url: /contact
     weight: 20

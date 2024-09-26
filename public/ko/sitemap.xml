@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,10 +15,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/event/example/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -38,10 +30,6 @@
                 href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -55,10 +43,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/projects/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/post/get-started/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -87,10 +71,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/tags/academic/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/post/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -162,10 +142,6 @@
                 href="http://localhost:1313/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/project/backend/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -183,14 +159,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/project/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -220,10 +188,6 @@
                 href="http://localhost:1313/tags/wowchemy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -238,10 +202,6 @@
                 href="http://localhost:1313/post/second-brain/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/data-visualization/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -255,10 +215,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/post/data-visualization/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/post/teach-courses/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -286,10 +242,6 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,10 +255,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/tags/hugo-blox-builder/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/post/project-management/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
@@ -335,14 +283,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -400,10 +340,6 @@
                 href="http://localhost:1313/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -417,10 +353,6 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/publication/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
@@ -464,10 +396,6 @@
                 href="http://localhost:1313/tags/source-themes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -496,10 +424,7 @@
                 href="http://localhost:1313/publication_types/paper-conference/"
                 />
   </url><url>
-    <loc>http://localhost:1313/profile/specs/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/profile/</loc>
+    <loc>http://localhost:1313/specs/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
