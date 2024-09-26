@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kim JaeHyeon
+title: 김재현
 
 # Full name (for SEO)
-first_name: JaeHyeon
-last_name: Kim
+first_name: 재현
+last_name: 김
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: 학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JeonBuk National University
+  - name: 전북대학교
     url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
@@ -36,12 +36,12 @@ profiles:
     url: https://github.com/KimJH0709/
 
 interests:
-  - Web Development
-  - Algorithms
+  - 웹 백앤드 개발
+  - 알고리즘
 
 education:
-  - area: IT정보공학과 (재학중)
-    institution: JeonBuk National University
+  - area: IT 정보공학과 학사 졸업 예정
+    institution: 전북대학교
     date_start: 2021-03-01
     date_end: 2025-02-01
     button:
@@ -60,7 +60,7 @@ skills:
       - name: C++
         description: ""
         percent: 20
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: ""
         percent: 10
@@ -85,6 +85,6 @@ languages:
     percent: 30
 ---
 
-## About Me
+## 자기소개글
 
 JaeHyeon Kim is ...
