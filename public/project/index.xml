@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | 김재현의 포트폴리오</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://KimJH0709.github.io/project/</link>
+      <atom:link href="https://KimJH0709.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://KimJH0709.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://KimJH0709.github.io/project/</link>
     </image>
     
     <item>
       <title>BACKENDPROJECT1</title>
-      <link>http://localhost:1313/project/be1/</link>
+      <link>https://KimJH0709.github.io/project/be1/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/be1/</guid>
+      <guid>https://KimJH0709.github.io/project/be1/</guid>
       <description></description>
     </item>
     
