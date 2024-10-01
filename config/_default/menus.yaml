@@ -20,13 +20,13 @@ main:
 
   - name: 연락
     url: /#contact
-    weight: 13
+    weight: 20
 
   - name: 프로젝트
     url: project/
     identifier: project
-    weight: 20
+    weight: 30
 
   - name: 학교
     url: experience/
-    weight: 30
+    weight: 40
