@@ -5,48 +5,28 @@
 
 main:
   - name: 프로필
-    url: /
+    url: profile
     weight: 10
     identifier: profile
   - name: 프로필
     parent: profile
     url: /
     weight: 11
-  - name: 스펙
+
+  - name: 스킬 및 취미
     parent: profile
-    url: /profile/specs
+    url: /#skills
     weight: 12
 
   - name: 프로젝트
-    url: /project
+    url: project/
     identifier: project
-    weight: 13
-  - name: 백엔드
-    parent: project
-    url: /project/backend
-    weight: 14
-  - name: 프론트앤드
-    parent: project
-    url: /project/frontend
-    weight: 15
-  - name: 기타
-    parent: project
-    url: /project/etc
-    weight: 16
+    weight: 20
 
-  - name: 교육 및 기술
-    url: /eduNskills
-    identifier: eduNskills
-    weight: 17
-  - name: 교육
-    parent: eduNskills
-    url: /eduNtech/edu
-    weight: 18
-  - name: 기술
-    parent: eduNskills
-    url: /eduNtech/skills
-    weight: 19
+  - name: 학교
+    url: experience/
+    weight: 30
 
   - name: 연락
-    url: /contact
-    weight: 20
+    url: contact/
+    weight: 80
