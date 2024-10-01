@@ -36,6 +36,25 @@ sections:
     design:
       show_skill_percentage: false
 
+  - block: markdown
+    id: contact
+    content:
+      title: "연락"
+      text: |-
+        <p>이메일 : rlawogus65@gmail.com</p>
+        <p>위치 : 전북대학교 공과대학 7호관 </p>
+        <iframe 
+            width="900" 
+            height="600" 
+            style="border: 1px solid black" 
+            loading="lazy" 
+            allowfullscreen 
+            src="https://www.openstreetmap.org/export/embed.html?bbox=127.1315%2C35.8449%2C127.1375%2C35.8479&layer=mapnik&marker=35.84601324617979%2C127.13444961966684">
+        </iframe>
+
+    design:
+      columns: "1"
+
   - block: collection
     id: papers
     content:

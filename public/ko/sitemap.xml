@@ -233,8 +233,5 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/publication_types/paper-conference/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>

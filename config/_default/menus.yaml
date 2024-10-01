@@ -18,6 +18,10 @@ main:
     url: /#skills
     weight: 12
 
+  - name: 연락
+    url: /#contact
+    weight: 13
+
   - name: 프로젝트
     url: project/
     identifier: project
@@ -26,7 +30,3 @@ main:
   - name: 학교
     url: experience/
     weight: 30
-
-  - name: 연락
-    url: contact/
-    weight: 80
