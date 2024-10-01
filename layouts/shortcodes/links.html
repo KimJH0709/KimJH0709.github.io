@@ -1,0 +1,11 @@
+{{ if .Params.links }}
+  <ul>
+    {{ range .Params.links }}
+      <li>
+        <a href="{{ .url }}" class="fab fa-{{ .icon }}" aria-label="{{ .name }}">
+          {{ .name }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

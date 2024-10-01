@@ -11,7 +11,7 @@ tags:
 ---
 
 - [코드 보기 - GitHub](https://github.com/jbnu-capstone-jjinjjin/project)
-  ![프론트앤드 사진](./PM.png)
+  ![프론트앤드 사진](./featured.jpg)
 
 # 기능 요약
 

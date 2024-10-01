@@ -5,30 +5,10 @@
     <loc>http://localhost:1313/en/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/event/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/example/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>

@@ -22,6 +22,10 @@ main:
     url: /#contact
     weight: 20
 
+  - name: 활동
+    url: activity/
+    weight: 25
+
   - name: 프로젝트
     url: project/
     identifier: project

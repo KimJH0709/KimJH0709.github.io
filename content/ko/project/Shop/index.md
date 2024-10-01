@@ -14,11 +14,11 @@ tags:
 
 - [코드 보기 - GitHub](https://github.com/KimJH0709/DB-Real)
 
-![쇼핑몰 사진](./Shop.png)
+![쇼핑몰 사진](./featured.jpg)
 
 - 쇼핑몰 사진
 
-![DB 사진](./DB.png)
+![DB 사진](./DB.jpg)
 
 - DB 사진
 
