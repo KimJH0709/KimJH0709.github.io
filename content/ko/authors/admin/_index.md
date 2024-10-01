@@ -40,13 +40,15 @@ interests:
   - 알고리즘
 
 education:
-  - area: IT 정보공학과 학사 졸업 예정
+  - area: 광주 동성고등학교 졸업
+    institution: 광주 동성고등학교
+    date_start: 2015-03-01
+    date_end: 2018-02-01
+
+  - area: IT 정보공학과 재학
     institution: 전북대학교
     date_start: 2021-03-01
     date_end: 2025-02-01
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -82,7 +84,7 @@ languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 30
+    percent: 50
 ---
 
 ## 자기소개글
