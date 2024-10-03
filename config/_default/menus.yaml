@@ -19,12 +19,24 @@ main:
     weight: 12
 
   - name: 연락
+    parent: profile
     url: /#contact
     weight: 20
 
   - name: 활동
     url: activity/
     weight: 25
+    identifier: activity
+
+  - name: 공부
+    parent: activity
+    uirl: /activity/study/
+    weight: 26
+
+  - name: 알고리즘
+    parent: activity
+    url: /activity/coding/
+    weight: 27
 
   - name: 프로젝트
     url: project/

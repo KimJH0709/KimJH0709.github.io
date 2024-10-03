@@ -144,14 +144,6 @@
     </item>
     
     <item>
-      <title>activity</title>
-      <link>http://localhost:1313/activity/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/activity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
