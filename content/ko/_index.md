@@ -31,10 +31,10 @@ sections:
   - block: resume-skills
     id: skills
     content:
-      title: 스킬 및 취미
+      title: 스킬
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
 
   - block: markdown
     id: contact

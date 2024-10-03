@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project | 김재현의 포트폴리오</title>
-    <link>https://KimJH0709.github.io/project/</link>
-      <atom:link href="https://KimJH0709.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Project</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://KimJH0709.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Project</title>
-      <link>https://KimJH0709.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Hugo를 활용한 포트폴리오 사이트</title>
-      <link>https://KimJH0709.github.io/project/hugo/</link>
+      <link>http://localhost:1313/project/hugo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://KimJH0709.github.io/project/hugo/</guid>
+      <guid>http://localhost:1313/project/hugo/</guid>
       <description>&lt;h2 id=&#34;프로젝트-링크&#34;&gt;프로젝트 링크&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>다중 PC 환경 모니터링 및 원격 채팅 기술</title>
-      <link>https://KimJH0709.github.io/project/pc_monitoring/</link>
+      <link>http://localhost:1313/project/pc_monitoring/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://KimJH0709.github.io/project/pc_monitoring/</guid>
+      <guid>http://localhost:1313/project/pc_monitoring/</guid>
       <description>&lt;p&gt;
 
 
@@ -72,9 +72,9 @@
     
     <item>
       <title>데이터베이스를 활용한 쇼핑몰 구현 프로젝트</title>
-      <link>https://KimJH0709.github.io/project/shop/</link>
+      <link>http://localhost:1313/project/shop/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://KimJH0709.github.io/project/shop/</guid>
+      <guid>http://localhost:1313/project/shop/</guid>
       <description>&lt;p&gt;
 
 

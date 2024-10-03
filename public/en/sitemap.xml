@@ -2,270 +2,290 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://KimJH0709.github.io/en/event/example/</loc>
+    <loc>http://localhost:1313/en/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/event/</loc>
+    <loc>http://localhost:1313/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/projects/</loc>
+    <loc>http://localhost:1313/en/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/post/get-started/</loc>
+    <loc>http://localhost:1313/en/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/academic/</loc>
+    <loc>http://localhost:1313/en/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/post/</loc>
+    <loc>http://localhost:1313/en/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/en/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/markdown/</loc>
+    <loc>http://localhost:1313/en/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/hugo/</loc>
+    <loc>http://localhost:1313/en/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/project/pandas/</loc>
+    <loc>http://localhost:1313/en/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/project/</loc>
+    <loc>http://localhost:1313/en/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/project/"
+                href="http://localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/project/"
+                href="http://localhost:1313/en/project/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/project/pytorch/</loc>
+    <loc>http://localhost:1313/en/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/project/scikit/</loc>
+    <loc>http://localhost:1313/en/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/second-brain/</loc>
+    <loc>http://localhost:1313/en/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/en/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/post/second-brain/</loc>
+    <loc>http://localhost:1313/en/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/post/data-visualization/</loc>
+    <loc>http://localhost:1313/en/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/post/teach-courses/</loc>
+    <loc>http://localhost:1313/en/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/activity/</loc>
+    <loc>http://localhost:1313/en/activity/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/experience/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/hugo-blox-builder/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://KimJH0709.github.io/en/post/project-management/</loc>
+    <loc>http://localhost:1313/en/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://KimJH0709.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication/preprint/</loc>
+    <loc>http://localhost:1313/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication/preprint/"
+                href="http://localhost:1313/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication/preprint/"
+                href="http://localhost:1313/en/publication/preprint/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication_types/article/</loc>
+    <loc>http://localhost:1313/en/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication_types/article/"
+                href="http://localhost:1313/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication_types/article/"
+                href="http://localhost:1313/en/publication_types/article/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/en/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/tags/large-language-models/"
+                href="http://localhost:1313/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/tags/large-language-models/"
+                href="http://localhost:1313/en/tags/large-language-models/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication_types/</loc>
+    <loc>http://localhost:1313/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication_types/"
+                href="http://localhost:1313/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication/</loc>
+    <loc>http://localhost:1313/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication/"
+                href="http://localhost:1313/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication/"
+                href="http://localhost:1313/en/publication/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication/journal-article/</loc>
+    <loc>http://localhost:1313/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication/journal-article/"
+                href="http://localhost:1313/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication/journal-article/"
+                href="http://localhost:1313/en/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/en/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication_types/article-journal/"
+                href="http://localhost:1313/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication_types/article-journal/"
+                href="http://localhost:1313/en/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/tags/source-themes/</loc>
+    <loc>http://localhost:1313/en/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/tags/source-themes/"
+                href="http://localhost:1313/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/tags/source-themes/"
+                href="http://localhost:1313/en/tags/source-themes/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication/conference-paper/"
+                href="http://localhost:1313/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication/conference-paper/"
+                href="http://localhost:1313/en/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://KimJH0709.github.io/en/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/en/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="https://KimJH0709.github.io/publication_types/paper-conference/"
+                href="http://localhost:1313/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://KimJH0709.github.io/en/publication_types/paper-conference/"
+                href="http://localhost:1313/en/publication_types/paper-conference/"
                 />
   </url>
 </urlset>

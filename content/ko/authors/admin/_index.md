@@ -53,32 +53,32 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 언어
     items:
       - name: Java
         description: ""
         percent: 70
         icon: code-bracket
-      - name: C++
+      - name: REACT
         description: ""
-        percent: 20
+        percent: 30
         icon: code-bracket
-      - name: SQL
+      - name: MySQL
         description: ""
-        percent: 10
+        percent: 30
         icon: circle-stack
-  - name: Hobbies
+  - name: 프레임워크
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Game
+      - name: SPRING
         description: ""
-        percent: 70
-        icon: person-simple-walk
-      - name: Bowling
+        percent: 60
+        icon: code-bracket
+      - name: SPRING BOOT
         description: ""
-        percent: 30
-        icon: cat
+        percent: 40
+        icon: code-bracket
 
 languages:
   - name: Korean

@@ -13,7 +13,7 @@ main:
     url: /
     weight: 11
 
-  - name: 스킬 및 취미
+  - name: 기술
     parent: profile
     url: /#skills
     weight: 12
@@ -30,7 +30,7 @@ main:
 
   - name: 공부
     parent: activity
-    uirl: /activity/study/
+    url: /activity/studing/
     weight: 26
 
   - name: 알고리즘
