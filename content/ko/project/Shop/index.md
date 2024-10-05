@@ -10,8 +10,6 @@ tags:
 url_code: "https://github.com/KimJH0709/DB-Real"
 ---
 
-![쇼핑몰 사진](./featured.jpg)
-
 - 쇼핑몰 사진
 
 ![DB 사진](./DB.jpg)

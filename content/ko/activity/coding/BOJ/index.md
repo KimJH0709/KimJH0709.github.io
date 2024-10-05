@@ -1,5 +1,5 @@
 ---
-title: "BOJ"
+title: "백준"
 summary: 백준 문제풀이
 date: "2024-10-01"
 math: false

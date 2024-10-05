@@ -10,8 +10,6 @@ tags:
 url_code: "https://github.com/jbnu-capstone-jjinjjin/project"
 ---
 
-![프론트앤드 사진](./featured.jpg)
-
 # 기능 요약
 
 ## Web Browser(admin-page)
