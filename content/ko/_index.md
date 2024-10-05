@@ -22,6 +22,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      button:
+        text: 시간표 다운로드
+        url: uploads/timetable.pdf
       # Show a call-to-action button under your biography? (optional)
     design:
       css_class: dark

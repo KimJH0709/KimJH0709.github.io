@@ -14,6 +14,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      button:
+        text: Download Timetable
+        url: ../uploads/timetable.pdf
       # Show a call-to-action button under your biography? (optional)
     design:
       css_class: dark
