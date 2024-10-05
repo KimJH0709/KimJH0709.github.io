@@ -77,9 +77,9 @@ sections:
           content_html: "취미 :  볼링"
         - image: intp.jpg
           content_html: "MBTI : INTP"
-      duration: 3000
+      duration: 5000
       items: 1
-      height: 500
+      height: 300
       unit: px
 
   - block: markdown

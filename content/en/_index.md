@@ -60,6 +60,20 @@ sections:
       view: article-grid
       columns: 3
 
+  - block: carousel
+    content:
+      slides:
+        - image: jbnu.jpg
+          content_html: "Jeonbuk National University, Class of 2021"
+        - image: bowling.jpg
+          content_html: "Hobby : Bowling"
+        - image: intp.jpg
+          content_html: "MBTI : INTP"
+      duration: 5000
+      items: 1
+      height: 300
+      unit: px
+
   - block: markdown
     id: contact
     content:
