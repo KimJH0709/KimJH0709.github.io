@@ -68,13 +68,13 @@ sections:
       slides:
         - image: unsplash/school.jpg
           content_html: "Jeonbuk National University, Class of 2021"
-        - image: unsplash/bowling.jpg
-          content_html: "Hobby : Bowling"
         - image: unsplash/character.jpg
           content_html: "MBTI : INTP"
-      duration: 5000
+        - image: unsplash/certificate.jpg
+          content_html: "Acquisition of 24-year Engineer Information Processing"
+      duration: 2000
       items: 1
-      height: 300
+      height: 400
       unit: px
 
   - block: markdown

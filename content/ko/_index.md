@@ -76,13 +76,13 @@ sections:
       slides:
         - image: unsplash/school.jpg
           content_html: "전북대학교 21학번"
-        - image: unsplash/bowling.jpg
-          content_html: "취미 :  볼링"
         - image: unsplash/character.jpg
           content_html: "MBTI : INTP"
-      duration: 5000
+        - image: unsplash/certificate.jpg
+          content_html: "24년 정보처리기사 취득"
+      duration: 2000
       items: 1
-      height: 300
+      height: 400
       unit: px
 
   - block: markdown
