@@ -1,14 +1,14 @@
 ---
-title: 모든 개발자들을 위한 HTTP 웹 기본 지식
+title: 실전 자바 - 중급 1편
 authors:
   - admin
 date: "2024-10-01"
 doi: ""
 publication_types: ["article"]
-summary: HTTP 강의
+summary: 스프링 강의
 tags:
   - WEB
-  - HTTP
+  - JAVA SPRING
   - BACKEND
 featured: true
 links:

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project | 김재현의 포트폴리오</title>
+    <title>프로젝트 | 김재현의 포트폴리오</title>
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Project</description>
+    <description>프로젝트</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Project</title>
+      <title>프로젝트</title>
       <link>http://localhost:1313/project/</link>
     </image>
     
@@ -17,8 +17,7 @@
       <link>http://localhost:1313/project/hugo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/hugo/</guid>
-      <description>&lt;h2 id=&#34;프로젝트-링크&#34;&gt;프로젝트 링크&lt;/h2&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

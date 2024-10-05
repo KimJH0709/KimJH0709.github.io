@@ -36,14 +36,29 @@ sections:
     design:
       show_skill_percentage: true
 
-  - block: slider
+  - block: collection
+    id: papers
     content:
-      images:
-        - /assets/media/image1.jpg
-        - /assets/media/image2.jpg
-        - /assets/media/image3.jpg
+      title: 프로젝트
+      filters:
+        folders:
+          - project
+        featured_only: true
     design:
-      css_class: dark
+      view: article-grid
+      columns: 3
+
+  - block: collection
+    id: papers
+    content:
+      title: 수강 강의
+      filters:
+        folders:
+          - activity
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
 
   - block: markdown
     id: contact
@@ -60,31 +75,6 @@ sections:
             allowfullscreen 
             src="https://www.openstreetmap.org/export/embed.html?bbox=127.1315%2C35.8449%2C127.1375%2C35.8479&layer=mapnik&marker=35.84601324617979%2C127.13444961966684">
         </iframe>
-
     design:
       columns: "1"
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
-
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
 ---

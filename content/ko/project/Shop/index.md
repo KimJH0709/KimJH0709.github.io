@@ -1,13 +1,22 @@
 ---
 title: 데이터베이스를 활용한 쇼핑몰 구현 프로젝트
-summary: DB, 백앤드, 프론트앤드 프로젝트
+authors:
+  - admin
 date: "2024-10-01"
-math: false
+doi: ""
+publication_types: ["article"]
+summary: DB, 백앤드, 프론트앤드 프로젝트
 tags:
   - PHP
   - HTML, CSS
   - MySQL
+featured: true
+links:
 url_code: "https://github.com/KimJH0709/DB-Real"
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  focal_point: ""
+  preview_only: false
 ---
 
 - 쇼핑몰 사진

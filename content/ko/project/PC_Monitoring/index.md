@@ -1,13 +1,22 @@
 ---
 title: 다중 PC 환경 모니터링 및 원격 채팅 기술
-summary: 프론트앤드 프로젝트
+authors:
+  - admin
 date: "2024-10-01"
-math: false
+doi: ""
+publication_types: ["article"]
+summary: 프론트앤드 프로젝트
 tags:
   - React
   - Firebase
   - Mantine UI
+featured: true
+links:
 url_code: "https://github.com/jbnu-capstone-jjinjjin/project"
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  focal_point: ""
+  preview_only: false
 ---
 
 # 기능 요약

@@ -1,13 +1,12 @@
 ---
-title: Project
+title: 프로젝트
 cms_exclude: true
-#url: talk
 
-# View
+# View.
 view: card
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
+# Optional header image (relative to `static/media/` folder).
+banner:
   caption: ""
-  filename: ""
+  image: ""
 ---
