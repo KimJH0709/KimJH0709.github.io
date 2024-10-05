@@ -79,9 +79,9 @@ sections:
     content:
       title: "CONTACT"
       text: |-
-        <p>E-mail : rlawogus65@gmail.com</p>
-        <p>TEL : 010 - 3340 - 5731</p>
-        <p>Loc :  7th Engineering Building of Jeonbuk National University </p>
+        <p><i class="fas fa-envelope"></i> E-mail : rlawogus65@gmail.com</p>
+        <p><i class="fas fa-phone"></i> TEL : 010 - 3340 - 5731</p>
+        <p><i class="fas fa-map-marker-alt"></i> Loc :  7th Engineering Building of Jeonbuk National University </p>
         <iframe 
             width="900" 
             height="600" 

@@ -58,15 +58,15 @@ skills:
       - name: Java
         description: ""
         percent: 70
-        icon: code-bracket
+        icon: brands/java
       - name: REACT
         description: ""
         percent: 30
-        icon: code-bracket
+        icon: brands/react
       - name: MySQL
         description: ""
         percent: 30
-        icon: circle-stack
+        icon: brands/database
   - name: Dev Framework
     color: "#eeac02"
     color_border: "#f0bf23"
@@ -74,11 +74,11 @@ skills:
       - name: SPRING
         description: ""
         percent: 60
-        icon: code-bracket
+        icon: brands/spring
       - name: SPRING BOOT
         description: ""
         percent: 40
-        icon: code-bracket
+        icon: brands/springboot
 
 languages:
   - name: Korean

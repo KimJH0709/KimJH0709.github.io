@@ -87,9 +87,9 @@ sections:
     content:
       title: "연락"
       text: |-
-        <p>이메일 : rlawogus65@gmail.com</p>
-        <p>연락처 : 010 - 3340 - 5731</p>
-        <p>위치 : 전북대학교 공과대학 7호관 </p>
+        <p><i class="fas fa-envelope"></i> 이메일 : rlawogus65@gmail.com</p>
+        <p><i class="fas fa-phone"></i> 연락처 : 010 - 3340 - 5731</p>
+        <p><i class="fas fa-map-marker-alt"></i> 위치 : 전북대학교 공과대학 7호관</p>
         <iframe 
             width="900" 
             height="600" 

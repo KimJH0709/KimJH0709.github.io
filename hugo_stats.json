@@ -154,7 +154,11 @@
       "fa-creative-commons-by",
       "fa-creative-commons-nc",
       "fa-creative-commons-nd",
+      "fa-envelope",
+      "fa-map-marker-alt",
+      "fa-phone",
       "fab",
+      "fas",
       "featured-image",
       "featured-image-wrapper",
       "fill-current",
@@ -441,6 +445,7 @@
       "sm:text-lg",
       "space-x-3",
       "space-y-1",
+      "st0",
       "sticky",
       "text-1xl",
       "text-2xl",
@@ -505,6 +510,7 @@
       "z-30"
     ],
     "ids": [
+      "Layer_1",
       "baekjoon-랭크",
       "carouselsection-carousel",
       "clientcollector",
