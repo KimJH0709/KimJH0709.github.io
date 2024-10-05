@@ -511,7 +511,6 @@
       "contact",
       "feature-summary",
       "hide-button",
-      "introduce-myself",
       "introduction",
       "moon",
       "mysql",
@@ -545,8 +544,7 @@
       "top",
       "web-browseradmin-page",
       "기능-요약",
-      "자기소개",
-      "자기소개글"
+      "자기소개"
     ]
   }
 }
