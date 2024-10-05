@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "김재현의 포트폴리오"
+      text: "KJH Portfolio"
 
 # Site footer
 footer:

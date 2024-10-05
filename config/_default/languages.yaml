@@ -13,11 +13,50 @@ ko:
 en:
   languageCode: en-us
   contentDir: content/en
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  title: KJH Portfolio
+  params:
+    description: KimJaeHyeon Portfolio
+  menus:
+    main:
+      - name: PROFILE
+        url: profile
+        weight: 10
+        identifier: profile
+      - name: PROFILE
+        parent: profile
+        url: /
+        weight: 11
+
+      - name: SKILLS
+        parent: profile
+        url: /#skills
+        weight: 12
+
+      - name: CONTACT
+        parent: profile
+        url: /#contact
+        weight: 20
+
+      - name: ACTIVITY
+        url: activity/
+        weight: 25
+        identifier: activity
+
+      - name: STUDY
+        parent: activity
+        url: /activity/studing/
+        weight: 26
+
+      - name: CODING
+        parent: activity
+        url: /activity/coding/
+        weight: 27
+
+      - name: PROJECT
+        url: project/
+        identifier: project
+        weight: 30
+
+      - name: EXPERIENCE
+        url: experience/
+        weight: 40

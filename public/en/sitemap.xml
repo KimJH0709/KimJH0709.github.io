@@ -58,6 +58,20 @@
                 href="http://localhost:1313/en/tags/backend/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/activity/coding/boj/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/coding/boj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/coding/boj/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/coding-test/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,6 +156,20 @@
                 href="http://localhost:1313/en/tags/http/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/activity/studing/inflearn_2/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/studing/inflearn_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/studing/inflearn_2/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/hugo/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,20 +182,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/project/hugo/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/hugo/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/java-spring/</loc>
@@ -196,6 +210,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/mantine-ui/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/project/pc_monitoring/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/project/pc_monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/pc_monitoring/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/mysql/</loc>
@@ -240,6 +268,48 @@
                 href="http://localhost:1313/en/tags/php/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/project/hugo/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/project/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/hugo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/activity/studing/inflearn_3/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/studing/inflearn_3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/studing/inflearn_3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/project/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/publication_types/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -268,6 +338,62 @@
                 href="http://localhost:1313/en/tags/react/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/project/shop/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/project/shop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/shop/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/activity/coding/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/coding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/coding/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/activity/studing/inflearn_1/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/studing/inflearn_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/studing/inflearn_1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/activity/studing/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/activity/studing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/activity/studing/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -294,132 +420,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/web/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/studing/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/studing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/studing/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/project/pc_monitoring/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/pc_monitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pc_monitoring/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/project/shop/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/shop/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/shop/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/studing/inflearn_2/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/studing/inflearn_2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/studing/inflearn_2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/coding/boj/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/coding/boj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/coding/boj/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/studing/inflearn_1/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/studing/inflearn_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/studing/inflearn_1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/studing/inflearn_3/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/studing/inflearn_3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/studing/inflearn_3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/activity/coding/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/activity/coding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/activity/coding/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/project/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/experience/</loc>
