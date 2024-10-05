@@ -13,9 +13,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ""
-    org_name: ""
-    description: "The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website."
+    org_name: "전북대 김재현"
+    description: "전북대학교 IT 정보공학과 학생 김재현의 개인 포트폴리오입니다"
     twitter: "GetResearchDev"
+    keywords: ["김재현", "전북대학교", "IT 정보공학과"]
   analytics:
     google_analytics: ""
     baidu_tongji: ""
