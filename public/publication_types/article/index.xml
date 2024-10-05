@@ -100,5 +100,29 @@
 </description>
     </item>
     
+    <item>
+      <title>모든 개발자들을 위한 HTTP 웹 기본 지식</title>
+      <link>http://localhost:1313/activity/studing/inflearn_2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activity/studing/inflearn_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>스프링 MVC 1편</title>
+      <link>http://localhost:1313/activity/studing/inflearn_1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activity/studing/inflearn_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실전 자바 - 중급 1편</title>
+      <link>http://localhost:1313/activity/studing/inflearn_3/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activity/studing/inflearn_3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

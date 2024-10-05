@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Kim JaeHyeon
+title: 김재현
 
 # Full name (for SEO)
-first_name: JaeHyeon
-last_name: Kim
+first_name: 재현
+last_name: 김
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: 학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JeonBuk National University
+  - name: 전북대학교
     url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
@@ -36,55 +36,57 @@ profiles:
     url: https://github.com/KimJH0709/
 
 interests:
-  - Web Development
-  - Algorithms
+  - 웹 백앤드 개발
+  - 알고리즘
 
 education:
-  - area: IT정보공학과 (재학중)
-    institution: JeonBuk National University
+  - area: 광주 동성고등학교 졸업
+    institution: 광주 동성고등학교
+    date_start: 2015-03-01
+    date_end: 2018-02-01
+
+  - area: IT 정보공학과 재학
+    institution: 전북대학교
     date_start: 2021-03-01
     date_end: 2025-02-01
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 언어
     items:
       - name: Java
         description: ""
         percent: 70
         icon: code-bracket
-      - name: C++
+      - name: REACT
         description: ""
-        percent: 20
-        icon: chart-bar
-      - name: SQL
+        percent: 30
+        icon: code-bracket
+      - name: MySQL
         description: ""
-        percent: 10
+        percent: 30
         icon: circle-stack
-  - name: Hobbies
+  - name: 프레임워크
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Game
+      - name: SPRING
         description: ""
-        percent: 70
-        icon: person-simple-walk
-      - name: Bowling
+        percent: 60
+        icon: code-bracket
+      - name: SPRING BOOT
         description: ""
-        percent: 30
-        icon: cat
+        percent: 40
+        icon: code-bracket
 
 languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 30
+    percent: 50
 ---
 
-## About Me
+## 자기소개글
 
 JaeHyeon Kim is ...

@@ -1,5 +1,5 @@
 ---
-title: Project
+title: 공부
 cms_exclude: true
 #url: talk
 

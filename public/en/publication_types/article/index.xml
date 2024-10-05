@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/publication_types/article/</link>
       <atom:link href="http://localhost:1313/en/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
@@ -13,21 +13,115 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/en/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Hugo를 활용한 포트폴리오 사이트</title>
+      <link>http://localhost:1313/en/project/hugo/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>다중 PC 환경 모니터링 및 원격 채팅 기술</title>
+      <link>http://localhost:1313/en/project/pc_monitoring/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/pc_monitoring/</guid>
+      <description>&lt;h1 id=&#34;기능-요약&#34;&gt;기능 요약&lt;/h1&gt;
+&lt;h2 id=&#34;web-browseradmin-page&#34;&gt;Web Browser(admin-page)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Client의 HW정보, SDK정보, RESOURCE 정보를 조회합니다.&lt;/li&gt;
+&lt;li&gt;Client의 RESOURCE 정보를 토대로 Client에서 실행중인 프로그램의 PID를 얻습니다. 해당 PID를 이용해 Client에 실행중인 프로그램을 강제로 종료합니다.&lt;/li&gt;
+&lt;li&gt;Client의 현재 화면을 캡처하여 조회합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;serverbackend&#34;&gt;Server(backend)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Client의 HW정보, SDK정보, RESOURCE 정보를 저장합니다.&lt;/li&gt;
+&lt;li&gt;Client가 전송한 Screenshot을 저장합니다.&lt;/li&gt;
+&lt;li&gt;admin-page에서 내린 명령을 Client에 전달합니다.&lt;/li&gt;
+&lt;li&gt;admin-page에 Client의 정보를 전달하여 조회할 수 있도록 합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;clientcollector&#34;&gt;Client(collector)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;현재 설치된 기기의 HW정보, SDK정보, RESOURCE 정보를 수집하여 서버에 보냅니다. 이중 RESOURCE 정보는 사용자가 정의한 시간(기본 5분)주기로 전송합니다.&lt;/li&gt;
+&lt;li&gt;서버에서 명령을 받아 PID를 전달받으면 해당 PID를 종료시킵니다. 이후 RESOURCE 정보를 다시한번 갱신하여 서버에 전송합니다.&lt;/li&gt;
+&lt;li&gt;서버에서 명령을 받아 Screenshot를 캡처하여 서버로 전달합니다.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>데이터베이스를 활용한 쇼핑몰 구현 프로젝트</title>
+      <link>http://localhost:1313/en/project/shop/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/shop/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;쇼핑몰 사진&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./DB.jpg&#34; alt=&#34;DB 사진&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DB 사진&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;서버 사이드 스크립팅 언어로, 동적인 웹 페이지를 생성할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;다양한 데이터베이스와 연결하여 데이터 저장 및 조회가 가능합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mysql&#34;&gt;MySQL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;관계형 데이터베이스 관리 시스템으로, 데이터의 저장과 관리를 효율적으로 수행합니다.&lt;/li&gt;
+&lt;li&gt;SQL(Structured Query Language)을 사용하여 데이터 검색, 삽입, 업데이트 및 삭제를 지원합니다.&lt;/li&gt;
+&lt;li&gt;데이터의 무결성을 유지하고, 트랜잭션을 통해 데이터 일관성을 보장합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nodejs&#34;&gt;Node.js&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이벤트 기반, 비동기 I/O 모델을 사용하여 높은 성능의 네트워크 애플리케이션을 구축할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;JavaScript를 서버 측에서도 사용할 수 있게 하여 전체 스택 개발을 간소화합니다.&lt;/li&gt;
+&lt;li&gt;NPM(Node Package Manager)을 통해 다양한 패키지와 라이브러리를 쉽게 관리하고 사용할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>모든 개발자들을 위한 HTTP 웹 기본 지식</title>
+      <link>http://localhost:1313/en/activity/studing/inflearn_2/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/activity/studing/inflearn_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>스프링 MVC 1편</title>
+      <link>http://localhost:1313/en/activity/studing/inflearn_1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/activity/studing/inflearn_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실전 자바 - 중급 1편</title>
+      <link>http://localhost:1313/en/activity/studing/inflearn_3/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/activity/studing/inflearn_3/</guid>
+      <description></description>
     </item>
     
   </channel>
