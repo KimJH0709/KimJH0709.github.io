@@ -21,9 +21,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: bg.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
