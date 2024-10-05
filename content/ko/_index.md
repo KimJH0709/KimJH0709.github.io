@@ -8,6 +8,14 @@ design:
   # Default section spacing
   spacing: "6rem"
 
+css:
+  - "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+
+js:
+  - "https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  - "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  - "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+
 sections:
   - block: resume-biography-3
     content:
@@ -59,6 +67,20 @@ sections:
     design:
       view: article-grid
       columns: 3
+
+  - block: carousel
+    content:
+      slides:
+        - image: jbnu.jpg
+          content_html: "전북대학교 21학번"
+        - image: bowling.jpg
+          content_html: "취미 :  볼링"
+        - image: intp.jpg
+          content_html: "MBTI : INTP"
+      duration: 3000
+      items: 1
+      height: 500
+      unit: px
 
   - block: markdown
     id: contact

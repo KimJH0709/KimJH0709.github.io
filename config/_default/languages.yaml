@@ -33,9 +33,8 @@ en:
         weight: 12
 
       - name: CONTACT
-        parent: profile
         url: /#contact
-        weight: 20
+        weight: 50
 
       - name: ACTIVITY
         url: activity/
