@@ -36,6 +36,15 @@ sections:
     design:
       show_skill_percentage: true
 
+  - block: slider
+    content:
+      images:
+        - /assets/media/image1.jpg
+        - /assets/media/image2.jpg
+        - /assets/media/image3.jpg
+    design:
+      css_class: dark
+
   - block: markdown
     id: contact
     content:
@@ -68,14 +77,14 @@ sections:
       columns: 3
 
   - block: collection
-    id: projects
+    id: papers
     content:
-      title: Featured Projects
+      title: Featured Publications
       filters:
         folders:
-          - project
+          - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---

@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>BOJ</title>
+      <link>http://localhost:1313/activity/coding/boj/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activity/coding/boj/</guid>
+      <description>&lt;h2 id=&#34;baekjoon-랭크&#34;&gt;Baekjoon 랭크&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;랭크&lt;/strong&gt;: 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;정답률&lt;/strong&gt;: 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;문제 수&lt;/strong&gt;: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Baekjoon 프로필에서 더 많은 정보를 확인할 수 있습니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hugo를 활용한 포트폴리오 사이트</title>
       <link>http://localhost:1313/project/hugo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
