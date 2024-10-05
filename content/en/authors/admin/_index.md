@@ -87,6 +87,14 @@ languages:
     percent: 50
 ---
 
-## Introduce Myself
+# Introduction
 
-JaeHyeon Kim is ...
+Hello! I am a student of **Jeonbuk National University**, class of **2021**, with a great passion for **software development**.
+
+I am currently working on a **portfolio website**, utilizing various programming languages to carry out projects.
+
+Through coding, I am developing my **problem-solving skills** and continuously learning **new technologies**.
+
+I have enhanced both my **collaborative skills** and my ability to work independently through team and individual projects.
+
+I will continue to grow and strive to become a better **developer** in the future.
