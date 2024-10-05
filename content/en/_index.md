@@ -31,7 +31,7 @@ sections:
   - block: resume-skills
     id: skills
     content:
-      title: 스킬
+      title: SKILL
       username: admin
     design:
       show_skill_percentage: true
@@ -39,7 +39,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 프로젝트
+      title: PROJECTS
       filters:
         folders:
           - project
@@ -51,7 +51,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 수강 강의
+      title: COMPLETION LECTURE
       filters:
         folders:
           - activity
@@ -63,10 +63,10 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: "연락"
+      title: "CONTACT"
       text: |-
-        <p>이메일 : rlawogus65@gmail.com</p>
-        <p>위치 : 전북대학교 공과대학 7호관 </p>
+        <p>E-mail : rlawogus65@gmail.com</p>
+        <p>Loc :  7th Engineering Building of Jeonbuk National University </p>
         <iframe 
             width="900" 
             height="600" 

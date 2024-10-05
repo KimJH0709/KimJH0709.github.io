@@ -5,7 +5,7 @@ authors:
 date: "2024-10-01"
 doi: ""
 publication_types: ["article"]
-summary: 스프링 강의
+summary: Java 강의
 tags:
   - WEB
   - JAVA SPRING

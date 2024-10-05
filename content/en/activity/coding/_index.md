@@ -1,5 +1,6 @@
 ---
-title: 코딩 문제풀이
+title: Solving Coding Problems
+
 cms_exclude: true
 #url: talk
 

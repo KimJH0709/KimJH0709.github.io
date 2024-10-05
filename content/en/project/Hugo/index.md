@@ -1,11 +1,12 @@
 ---
-title: Hugo를 활용한 포트폴리오 사이트
+title: Portfolio Site With Hugo
 authors:
   - admin
 date: "2024-10-01"
 doi: ""
 publication_types: ["article"]
-summary: 오픈소스
+summary: Open Source
+
 tags:
   - HUGO
   - OPENSOURCE

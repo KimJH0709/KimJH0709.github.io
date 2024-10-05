@@ -1,5 +1,5 @@
 ---
-title: 공부
+title: Studing
 cms_exclude: true
 #url: talk
 

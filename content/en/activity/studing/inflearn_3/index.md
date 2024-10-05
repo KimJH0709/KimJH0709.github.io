@@ -1,11 +1,11 @@
 ---
-title: 실전 자바 - 중급 1편
+title: Practical Java - Intermediate Ep.1
 authors:
   - admin
 date: "2024-10-01"
 doi: ""
 publication_types: ["article"]
-summary: 스프링 강의
+summary: Java Lecture
 tags:
   - WEB
   - JAVA SPRING
