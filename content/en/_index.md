@@ -63,11 +63,11 @@ sections:
   - block: carousel
     content:
       slides:
-        - image: jbnu.jpg
+        - image: unsplash/school.jpg
           content_html: "Jeonbuk National University, Class of 2021"
-        - image: bowling.jpg
+        - image: unsplash/bowling.jpg
           content_html: "Hobby : Bowling"
-        - image: intp.jpg
+        - image: unsplash/character.jpg
           content_html: "MBTI : INTP"
       duration: 5000
       items: 1

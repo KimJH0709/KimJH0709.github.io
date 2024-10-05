@@ -71,11 +71,11 @@ sections:
   - block: carousel
     content:
       slides:
-        - image: jbnu.jpg
+        - image: unsplash/school.jpg
           content_html: "전북대학교 21학번"
-        - image: bowling.jpg
+        - image: unsplash/bowling.jpg
           content_html: "취미 :  볼링"
-        - image: intp.jpg
+        - image: unsplash/character.jpg
           content_html: "MBTI : INTP"
       duration: 5000
       items: 1
