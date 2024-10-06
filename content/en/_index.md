@@ -98,7 +98,7 @@ sections:
         <p><i class="fas fa-phone"></i> TEL : 010 - 3340 - 5731</p>
         <p><i class="fas fa-map-marker-alt"></i> Loc :  7th Engineering Building of Jeonbuk National University </p>
 
-        {{< googlemap id="myMap" lat="35.8203" lng="127.1345" >}}
+        {{< googlemapen id="myMap" lat="35.8203" lng="127.1345" >}}
     design:
       columns: "1"
 ---
