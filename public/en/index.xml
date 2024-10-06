@@ -143,6 +143,35 @@
     </item>
     
     <item>
+      <title>Bowling</title>
+      <link>http://localhost:1313/en/hobby/bowling/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/hobby/bowling/</guid>
+      <description>&lt;p&gt;Highest score: 238&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/en/hobby/game/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/hobby/game/</guid>
+      <description>&lt;p&gt;The Best Tier
+Rank Game : Emerald 2
+TFT : Master 300&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>http://localhost:1313/en/hobby/movie/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/hobby/movie/</guid>
+      <description>&lt;p&gt;Favorite characters: Doraemon, Spider-Man&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>http://localhost:1313/en/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>

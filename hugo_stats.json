@@ -5,7 +5,6 @@
       "article",
       "aside",
       "body",
-      "br",
       "button",
       "circle",
       "div",
@@ -340,7 +339,6 @@
       "mt-1",
       "mt-10",
       "mt-12",
-      "mt-16",
       "mt-2",
       "mt-24",
       "mt-3",
@@ -563,10 +561,8 @@
       "slide2",
       "slide3",
       "sun",
-      "tft--master-300",
       "top",
       "web-browseradmin-page",
-      "개인랭--emerald-2",
       "기능-요약",
       "자기소개"
     ]
