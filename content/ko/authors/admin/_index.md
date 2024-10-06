@@ -34,6 +34,8 @@ profiles:
     url: https://www.instagram.com/jae_hyeon0709/
   - icon: brands/github
     url: https://github.com/KimJH0709/
+  - icon: brands/kakaotalk
+    url: https://open.kakao.com/o/snMCRVSg
 
 interests:
   - 웹 백앤드 개발
