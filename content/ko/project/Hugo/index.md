@@ -4,7 +4,7 @@ authors:
   - admin
 date: "2024-10-01"
 doi: ""
-publication_types: ["book"]
+publication_types: ["article"]
 summary: 오픈소스
 tags:
   - HUGO

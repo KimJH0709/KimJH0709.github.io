@@ -92,7 +92,7 @@ sections:
   - block: markdown
     id: contact
     content:
-      title: "연락"
+      title: "CONTACT"
       text: |-
         <p><i class="fas fa-envelope"></i> E-mail : rlawogus65@gmail.com</p>
         <p><i class="fas fa-phone"></i> TEL : 010 - 3340 - 5731</p>
