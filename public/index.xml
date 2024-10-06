@@ -143,6 +143,35 @@
     </item>
     
     <item>
+      <title>Bowling</title>
+      <link>http://localhost:1313/hobby/bowling/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/bowling/</guid>
+      <description>&lt;p&gt;최고 점수 : 238&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/hobby/game/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/game/</guid>
+      <description>&lt;p&gt;최고 티어
+개인랭 : Emerald 2
+TFT : Master 300&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>http://localhost:1313/hobby/movie/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/movie/</guid>
+      <description>&lt;p&gt;좋아하는 캐릭터 : 도라에몽, 스파이더맨&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>

@@ -58,6 +58,10 @@
                 href="http://localhost:1313/tags/backend/"
                 />
   </url><url>
+    <loc>http://localhost:1313/publication_types/book/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/coding-test/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

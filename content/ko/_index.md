@@ -71,6 +71,18 @@ sections:
       view: article-grid
       columns: 3
 
+  - block: collection
+    content:
+      title: 취미
+      text: ""
+      filters:
+        folders:
+          - hobby
+        exclude_featured: false
+    design:
+      view: card
+      columns: 3
+
   - block: carousel
     content:
       slides:
