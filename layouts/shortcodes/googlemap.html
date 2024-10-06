@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>지도 테스트</title>
+    <script>
+        function initMap() {
+            var location = { lat: 35.84601324617979, lng: 127.13444961966684 };
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: location
+            });
+            var marker = new google.maps.Marker({
+                position: location,
+                map: map
+            });
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1c2miU5fRUw_h_kcJEuNgzQwveTyov9M&callback=initMap"></script>
+</head>
+<body>
+    <h2>연락처</h2>
+    <div id="map" style="height: 600px; width: 900px;"></div>
+</body>
+</html>

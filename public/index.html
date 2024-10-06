@@ -3198,14 +3198,34 @@
   <div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose"><p><i class="fas fa-envelope"></i> 이메일 : rlawogus65@gmail.com</p>
 <p><i class="fas fa-phone"></i> 연락처 : 010 - 3340 - 5731</p>
 <p><i class="fas fa-map-marker-alt"></i> 위치 : 전북대학교 공과대학 7호관</p>
-<iframe 
-    width="600" 
-    height="400" 
-    style="border: 1px solid black" 
-    loading="lazy" 
-    allowfullscreen 
-    src="https://www.openstreetmap.org/export/embed.html?bbox=127.1315%2C35.8449%2C127.1375%2C35.8479&layer=mapnik&marker=35.84601324617979%2C127.13444961966684">
-</iframe></div>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>지도 테스트</title>
+    <script>
+        function initMap() {
+            var location = { lat: 35.84601324617979, lng: 127.13444961966684 };
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: location
+            });
+            var marker = new google.maps.Marker({
+                position: location,
+                map: map
+            });
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1c2miU5fRUw_h_kcJEuNgzQwveTyov9M&callback=initMap"></script>
+</head>
+<body>
+    <h2>연락처</h2>
+    <div id="map" style="height: 600px; width: 900px;"></div>
+</body>
+</html>
+
+</div>
 </div>
 
 
