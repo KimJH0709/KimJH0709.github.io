@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ .Site.Params.google_maps_api_key }}&callback=initMap"></script>
     <script>
         function initMap() {
             var location = { lat: 35.84601324617979, lng: 127.13444961966684 };
@@ -11,18 +12,16 @@
                 zoom: 15,
                 center: location
             });
-            var marker = new google.maps.Marker({
+            
+            // 기본 Marker 사용
+            const marker = new google.maps.Marker({
                 position: location,
-                map: map
+                map: map,
             });
         }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1c2miU5fRUw_h_kcJEuNgzQwveTyov9M&callback=initMap"></script>
 </head>
 <body>
     <div id="map" style="height: 400px; width: 600px;"></div>
 </body>
 </html>
-
-<!-- AIzaSyD1c2miU5fRUw_h_kcJEuNgzQwveTyov9 -->
-<!-- lat: 35.84601324617979, lng: 127.13444961966684 -->

@@ -57,3 +57,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  google_maps_api_key: "AIzaSyD1c2miU5fRUw_h_kcJEuNgzQwveTyov9"
