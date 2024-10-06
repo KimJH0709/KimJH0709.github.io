@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "aside",
@@ -532,6 +533,7 @@
       "feature-summary",
       "hide-button",
       "introduction",
+      "kakaotalk",
       "moon",
       "mysql",
       "nav-menu",
