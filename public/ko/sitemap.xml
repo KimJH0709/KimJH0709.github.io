@@ -58,10 +58,6 @@
                 href="http://localhost:1313/tags/backend/"
                 />
   </url><url>
-    <loc>http://localhost:1313/publication_types/book/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/tags/coding-test/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -160,18 +156,18 @@
                 href="http://localhost:1313/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/project/hugo/</loc>
+    <loc>http://localhost:1313/projects/hugo/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/hugo/"
+                href="http://localhost:1313/en/projects/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="http://localhost:1313/project/hugo/"
+                href="http://localhost:1313/projects/hugo/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/java-spring/</loc>
@@ -314,32 +310,32 @@
                 href="http://localhost:1313/activity/studing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/project/pc_monitoring/</loc>
+    <loc>http://localhost:1313/projects/pc_monitoring/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/pc_monitoring/"
+                href="http://localhost:1313/en/projects/pc_monitoring/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="http://localhost:1313/project/pc_monitoring/"
+                href="http://localhost:1313/projects/pc_monitoring/"
                 />
   </url><url>
-    <loc>http://localhost:1313/project/shop/</loc>
+    <loc>http://localhost:1313/projects/shop/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/shop/"
+                href="http://localhost:1313/en/projects/shop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="http://localhost:1313/project/shop/"
+                href="http://localhost:1313/projects/shop/"
                 />
   </url><url>
     <loc>http://localhost:1313/activity/studing/inflearn_2/</loc>
@@ -412,18 +408,18 @@
                 href="http://localhost:1313/activity/coding/"
                 />
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/project/"
+                href="http://localhost:1313/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko-kr"
-                href="http://localhost:1313/project/"
+                href="http://localhost:1313/projects/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/bowling/</loc>

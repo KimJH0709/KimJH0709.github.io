@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>다중 PC 환경 모니터링 및 원격 채팅 기술</title>
-      <link>http://localhost:1313/project/pc_monitoring/</link>
+      <title>Hugo를 활용한 포트폴리오 사이트</title>
+      <link>http://localhost:1313/projects/hugo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pc_monitoring/</guid>
+      <guid>http://localhost:1313/projects/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>다중 PC 환경 모니터링 및 원격 채팅 기술</title>
+      <link>http://localhost:1313/projects/pc_monitoring/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pc_monitoring/</guid>
       <description>&lt;h1 id=&#34;기능-요약&#34;&gt;기능 요약&lt;/h1&gt;
 &lt;h2 id=&#34;web-browseradmin-page&#34;&gt;Web Browser(admin-page)&lt;/h2&gt;
 &lt;ol&gt;
@@ -42,9 +50,9 @@
     
     <item>
       <title>데이터베이스를 활용한 쇼핑몰 구현 프로젝트</title>
-      <link>http://localhost:1313/project/shop/</link>
+      <link>http://localhost:1313/projects/shop/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/shop/</guid>
+      <guid>http://localhost:1313/projects/shop/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;쇼핑몰 사진&lt;/li&gt;
 &lt;/ul&gt;

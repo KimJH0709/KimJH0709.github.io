@@ -40,9 +40,9 @@
     
     <item>
       <title>Multi-PC environment monitoring and remote chat technology</title>
-      <link>http://localhost:1313/en/project/pc_monitoring/</link>
+      <link>http://localhost:1313/en/projects/pc_monitoring/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/pc_monitoring/</guid>
+      <guid>http://localhost:1313/en/projects/pc_monitoring/</guid>
       <description>&lt;h1 id=&#34;feature-summary&#34;&gt;Feature Summary&lt;/h1&gt;
 &lt;h2 id=&#34;web-browseradmin-page&#34;&gt;Web Browser(admin-page)&lt;/h2&gt;
 &lt;ol&gt;
@@ -68,9 +68,9 @@
     
     <item>
       <title>Portfolio Site With Hugo</title>
-      <link>http://localhost:1313/en/project/hugo/</link>
+      <link>http://localhost:1313/en/projects/hugo/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/hugo/</guid>
+      <guid>http://localhost:1313/en/projects/hugo/</guid>
       <description></description>
     </item>
     
@@ -84,9 +84,9 @@
     
     <item>
       <title>Shopping Mall with DB</title>
-      <link>http://localhost:1313/en/project/shop/</link>
+      <link>http://localhost:1313/en/projects/shop/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/shop/</guid>
+      <guid>http://localhost:1313/en/projects/shop/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;WEB&lt;/li&gt;
 &lt;/ul&gt;
